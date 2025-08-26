@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2047-find-a-peak-element-ii](https://github.com/GaganDC/leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/GaganDC/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/GaganDC/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
